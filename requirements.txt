@@ -1,9 +1,7 @@
 streamlit
 pandas
-matplotlib
-seaborn
-scikit-learn
-folium
-openpyxl
-streamlit-folium
+numpy
 plotly
+folium
+scikit-learn
+openpyxl
